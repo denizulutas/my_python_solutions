@@ -15,5 +15,4 @@ def isprime(num):
     print("{} is a prime number".format(num))
 
 num1 =int(input("enter a num"))    
- 
 isprime(num1)   
